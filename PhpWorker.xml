@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhpWorkers>
+<PhpWorker id="1">
+<Name>foo</Name>
+<Age>10</Age>
+<Wage>100</Wage>
+</PhpWorker>
+<PhpWorker id="2">
+<Name>bar</Name>
+<Age>20</Age>
+<Wage>200</Wage>
+</PhpWorker>
+<PhpWorker id="3">
+<Name>bim</Name>
+<Age>30</Age>
+<Wage>300</Wage>
+</PhpWorker>
+</PhpWorkers>
